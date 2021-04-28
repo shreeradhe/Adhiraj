@@ -1,0 +1,21 @@
+.thanking-text, .error-text {
+	margin-top: 10%; 
+	text-align: center;
+}
+
+.thanking-text h2, .error-text h2 {
+	font-size: 2rem;
+	font-weight: 700;
+	color: #9B247D;
+	padding-bottom: 2%;
+}
+
+.error-text h2 {
+	color: red;
+}
+
+.thanking-text p,.error-text p {
+	font-size: 1.3rem;
+	font-weight: 500;
+	color: #111111;
+}

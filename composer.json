@@ -1,0 +1,12 @@
+{
+    "name": "raj/email",
+    "authors": [
+        {
+            "name": "Raj Panchal",
+            "email": "rajpanchal.3786@gmail.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.1"
+    }
+}
